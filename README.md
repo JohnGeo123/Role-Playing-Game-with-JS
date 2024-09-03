@@ -54,11 +54,3 @@ The logic behind the game is implemented in the `script.js` file. Key functional
 
 Feel free to explore and modify the script to customize the game or add new features.
 
-## Getting Started
-
-1. Clone the repository:
-   `git clone https://github.com/Erikote04/Role-Playing-Game.git`
-  
-2. Open index.html in your preferred web browser.
-
-3. Begin your quest and enjoy the Dragon Repeller RPG!
